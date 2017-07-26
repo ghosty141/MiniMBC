@@ -5,6 +5,10 @@ A super simplified version of my app MenuBarControls (MBC)
   <img width="318" height="98" src="https://user-images.githubusercontent.com/17564201/28616840-8697a5ba-71fe-11e7-9234-d156161ffe12.png">
 </p>
 
+## Installing
+
+Just download the app from [here](https://github.com/Ghosty141/MiniMBC/releases/) and place it into your Applications Folder. Done!
+
 ## Usage Information
 
 Yes, there are only 3 buttons: 
